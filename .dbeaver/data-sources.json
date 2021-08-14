@@ -1,0 +1,30 @@
+{
+	"folders": {},
+	"connections": {
+		"sqlite_jdbc-17b2e5ff21b-1915e4bdfcfd18e6": {
+			"provider": "generic",
+			"driver": "sqlite_jdbc",
+			"name": "ProyectosConstruccion.db",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"database": "C:\\Users\\ASUS\\OneDrive\\Documentos\\reto4_p47_plantilla\\ProyectosConstruccion.db",
+				"url": "jdbc:sqlite:C:\\Users\\ASUS\\OneDrive\\Documentos\\reto4_p47_plantilla\\ProyectosConstruccion.db",
+				"type": "dev",
+				"auth-model": "native",
+				"handlers": {}
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Development",
+			"color": "255,255,255",
+			"description": "Regular development database",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false,
+			"auto-close-transactions": false
+		}
+	}
+}
